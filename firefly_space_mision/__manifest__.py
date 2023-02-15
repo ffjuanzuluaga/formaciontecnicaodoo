@@ -4,5 +4,5 @@
  'version': '16.0.0.0',
  'author': 'Firefly-e',
  'webiste': 'firefly-e.com',
- 'data': ['base']
+ 'depends': ['base']
 }
